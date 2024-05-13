@@ -1,0 +1,8 @@
+m = float(input('m: '))
+print('{}KM'.format(m/1000))
+print('{}HM'.format(m/100))
+print('{}DAM'.format(m/10))
+print('{}M'.format(m))
+print('{}DM'.format(m*10))
+print('{}CM'.format(m*100))
+print('{}MM'.format(m*1000))
